@@ -6,6 +6,13 @@ Robust keypoint detection and tracking are crucial for various robotic tasks. Ho
 # Network Architecture
 ![s](figures/Network.png)
 
+# Results
+![s](figures/github_ours.gif)
+
+![s](figures/github_compare_blur.gif)
+
+![s](figures/github_compare_dark.gif)
+
 # References
 [1] C. Philippe, P. Etienne, S. Amos, and L. Vincent, “Long-lived accurate keypoints in event streams,” arXiv preprint arXiv: 2209.10385, 2022.
 
