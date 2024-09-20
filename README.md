@@ -65,7 +65,7 @@ bash install.sh
 ```
 
 ## Evaluation
-Place the checkpoint in the ./checkpoints/ folder first. Pretrained models can be downloaded from [Baidu Netdisk]()
+Place the checkpoint in the ./checkpoints/ folder first. Pretrained models can be downloaded from [Baidu Netdisk](). 
 ```
 cd ./eval
 python eval_from_aedat4_high_freq.py --file_dir YOUR_DATA_PATH/Normal(or Blur, Dark, Over)
