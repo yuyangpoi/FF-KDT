@@ -5,19 +5,20 @@
 This is the Pytorch implementation of the RA-L 2024 paper [Toward Robust Keypoint Detection and Tracking: A Fusion Approach with Event-Aligned Image Features](https://ieeexplore.ieee.org/abstract/document/10629077). 
 
 
-# Extreme Corners Dataset
+## Extreme Corners Dataset
 **Baidu Netdisk**: https://pan.baidu.com/s/17W4hOlsyePy-D4sd6Q3aIA  **code**: 0620
 
 
 
-# Results
+## Results
 ![ours_result](figures/github_ours.gif)
 
 ![compare_blur](figures/github_compare_blur.gif)
 
 ![compare_dark](figures/github_compare_dark.gif)
 
-# References
+
+## References
 [1] C. Philippe, P. Etienne, S. Amos, and L. Vincent, “Long-lived accurate keypoints in event streams,” arXiv preprint arXiv: 2209.10385, 2022.
 
 [2] N. Messikommer, C. Fang, M. Gehrig, and D. Scaramuzza, “Data-driven feature tracking for event cameras,” in Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2023, pp. 5642–5651.
