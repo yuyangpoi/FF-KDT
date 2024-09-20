@@ -1,7 +1,7 @@
 # Towards Robust Keypoint Detection and Tracking: A Fusion Approach with Event-Aligned Image Features
 
 ![network](figures/Network.png)
-<img src="https://github.com/yuyangpoi/FF-KDT/tree/main/figures/Network.png" width="80%">
+<img src="figures/Network.png" width="80%">
 
 This is the Pytorch implementation of the RA-L 2024 paper [Towards Robust Keypoint Detection and Tracking: A Fusion Approach with Event-Aligned Image Features](https://ieeexplore.ieee.org/abstract/document/10629077). 
 
