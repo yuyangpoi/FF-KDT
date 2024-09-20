@@ -65,9 +65,13 @@ bash install.sh
 ```
 
 ## Evaluation
-Place the checkpoint in the ./checkpoints/ folder first. Pretrained models can be downloaded from [Baidu Netdisk](). 
+Download the Extreme Corners Dataset and llace the checkpoint in the ./checkpoints/ folder first. 
+
+Pretrained models can be downloaded from [Baidu Netdisk](). 
+
 ```
 cd ./eval
+
 python eval_from_aedat4_high_freq.py --file_dir YOUR_DATASET_ROOT/Normal(or Blur, Dark, Over)
 python compute_homo_high_freq.py (view parameter settings in the file)
 ```
