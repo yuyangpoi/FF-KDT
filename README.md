@@ -34,10 +34,6 @@ This is the Pytorch implementation of the RA-L 2024 paper [Towards Robust Keypoi
 </p>
 
 
-![compare_blur](figures/github_compare_blur.gif)
-
-![compare_dark](figures/github_compare_dark.gif)
-
 
 ## References
 [1] C. Philippe, P. Etienne, S. Amos, and L. Vincent, “Long-lived accurate keypoints in event streams,” arXiv preprint arXiv: 2209.10385, 2022.
