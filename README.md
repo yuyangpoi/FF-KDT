@@ -51,7 +51,7 @@ The dataset is only used for testing. It should look like this:
 
 ### 2. Install Python library
 ```
-conda create -n ff_kdt python=3.8
+conda create -n ff_kdt python==3.8
 conda activate ff_kdt
 ```
 
