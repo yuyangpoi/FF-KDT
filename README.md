@@ -10,7 +10,6 @@ This is the Pytorch implementation of the RA-L 2024 paper [Toward Robust Keypoin
 
 
 
-
 # Results
 ![ours_result](figures/github_ours.gif)
 
