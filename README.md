@@ -26,7 +26,13 @@ This is the Pytorch implementation of the RA-L 2024 paper [Towards Robust Keypoi
 <p align="center">
   <img src="figures/github_ours.gif" width="90%">
 </p>
-![ours_result](figures/github_ours.gif)
+<p align="center">
+  <img src="figures/github_compare_blur.gif" width="90%">
+</p>
+<p align="center">
+  <img src="figures/github_compare_dark.gif" width="90%">
+</p>
+
 
 ![compare_blur](figures/github_compare_blur.gif)
 
