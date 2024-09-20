@@ -19,7 +19,24 @@ This is the Pytorch implementation of the RA-L 2024 paper [Towards Robust Keypoi
 
 ## Extreme Corners Dataset
 **Baidu Netdisk**: https://pan.baidu.com/s/17W4hOlsyePy-D4sd6Q3aIA  **code**: 0620
-
+The dataset is only used for testing. It should look like this:
+   ```
+   ${DATASET_ROOT}
+      -- Normal
+          |-- normal_1_1.aedat4
+          |-- normal_1_2.aedat4
+          |-- normal_2_1.aedat4
+          ...
+      -- Blur
+          |-- blur_1_1.aedat4
+          ...
+      -- Dark
+          |-- dark_1_1.aedat4
+          ...
+      -- Over
+          |-- over_1_1.aedat4
+          ...
+   ```
 
 
 ## Results
