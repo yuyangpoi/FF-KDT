@@ -46,10 +46,10 @@ The dataset is only used for testing. It should look like this:
 </p>
 
 
-## Prepare the Environment
+## Prepare Environment
 ### 1. Install the [Metavision SDK](https://docs.prophesee.ai/stable/installation/index.html) for Event Simulator (Only for training)
 
-### 2. Install Python library
+### 2. Install library
 Ensure that CUDA is available before installation. 
 ```
 conda create -n ff_kdt python==3.8
