@@ -65,6 +65,8 @@ bash install.sh
 ```
 
 ## Evaluation
+Place the checkpoint in the ./checkpoints folder. 
+
 
 
 
