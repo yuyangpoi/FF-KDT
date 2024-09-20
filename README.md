@@ -35,15 +35,19 @@ The dataset is only used for testing. It should look like this:
 
 
 ## Results
+### 1. Results on Extreme Corners Dataset
 <p align="center">
   <img src="figures/github_ours.gif" width="80%">
 </p>
 <p align="center">
   <img src="figures/github_compare_blur.gif" width="80%">
 </p>
+
+### 2. Results on Event Camera Dataset
 <p align="center">
-  <img src="figures/github_compare_dark.gif" width="80%">
+  <img src="figures/EC_results.png" width="80%">
 </p>
+
 
 
 ## Prepare Environment
