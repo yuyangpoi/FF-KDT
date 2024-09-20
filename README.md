@@ -36,13 +36,13 @@ The dataset is only used for testing. It should look like this:
 
 ## Results
 <p align="center">
-  <img src="figures/github_ours.gif" width="90%">
+  <img src="figures/github_ours.gif" width="80%">
 </p>
 <p align="center">
-  <img src="figures/github_compare_blur.gif" width="90%">
+  <img src="figures/github_compare_blur.gif" width="80%">
 </p>
 <p align="center">
-  <img src="figures/github_compare_dark.gif" width="90%">
+  <img src="figures/github_compare_dark.gif" width="80%">
 </p>
 
 
@@ -65,7 +65,7 @@ bash install.sh
 ```
 
 ## Evaluation
-Place the checkpoint in the ./checkpoints/ folder first. 
+Place the checkpoint in the ./checkpoints/ folder first. Pretrained models can be downloaded from [Baidu Netdisk]()
 ```
 cd ./eval
 python eval_from_aedat4_high_freq.py --file_dir YOUR_DATA_PATH/Normal(or Blur, Dark, Over)
