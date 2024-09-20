@@ -1,8 +1,18 @@
-# [Toward Robust Keypoint Detection and Tracking: A Fusion Approach with Event-Aligned Image Features](https://github.com/yuyangpoi/FF-KDT)
+# [Towards Robust Keypoint Detection and Tracking: A Fusion Approach with Event-Aligned Image Features](https://github.com/yuyangpoi/FF-KDT)
 
 ![network](figures/Network.png)
 
-This is the Pytorch implementation of the RA-L 2024 paper [Toward Robust Keypoint Detection and Tracking: A Fusion Approach with Event-Aligned Image Features](https://ieeexplore.ieee.org/abstract/document/10629077). 
+This is the Pytorch implementation of the RA-L 2024 paper [Towards Robust Keypoint Detection and Tracking: A Fusion Approach with Event-Aligned Image Features](https://ieeexplore.ieee.org/abstract/document/10629077). 
+
+```bibtex
+@article{wang2024towards,
+  title={Towards Robust Keypoint Detection and Tracking: A Fusion Approach with Event-Aligned Image Features},
+  author={Wang, Xiangyuan and Yu, Huai and Yu, Lei and Yang, Wen and Xia, Gui-Song},
+  journal={IEEE Robotics and Automation Letters},
+  year={2024},
+  publisher={IEEE}
+}
+```
 
 
 ## Extreme Corners Dataset
