@@ -29,14 +29,8 @@ The dataset is only used for testing. It should look like this:
           |-- normal_2_1.aedat4
           ...
       -- Blur
-          |-- blur_1_1.aedat4
-          ...
       -- Dark
-          |-- dark_1_1.aedat4
-          ...
       -- Over
-          |-- over_1_1.aedat4
-          ...
    ```
 
 
