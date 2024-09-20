@@ -58,6 +58,9 @@ conda activate ff_kdt
 pip install torch==1.11.0+cu113 torchvision==0.12.0+cu113 torchaudio==0.11.0 --extra-index-url https://download.pytorch.org/whl/cu113
 pip install pytorch-lightning==1.8.6
 
+pip install -U openmim
+mim install mmcv==2.1.0
+
 bash install.sh
 ```
 
