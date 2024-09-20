@@ -67,7 +67,7 @@ bash install.sh
 ## Evaluation
 Download the Extreme Corners Dataset and llace the checkpoint in the ./checkpoints/ folder first. 
 
-Pretrained models can be downloaded from [Baidu Netdisk](). 
+Pretrained models can be downloaded from [Baidu Netdisk](https://pan.baidu.com/s/10v0HHstRxRA_GTo5Ne4Bjg?pwd=seaq). 
 
 ```
 cd ./eval
