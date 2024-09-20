@@ -743,7 +743,7 @@ class CornerDetectionLightningModel(pl.LightningModule):
 
 
 
-                    ## 
+                    ##
                     top1_gt_trajectory_t = top1_gt_trajectory[t*self.hparams.cout:(t+1)*self.hparams.cout]    # [5, B, 2, top_k]
                     query_vector_t = extract_query_vector(top1_gt_trajectory_t[0, ..., 0]/self.scale_factor, feature_list[t][0])
                     correlation_map_list = []
@@ -768,7 +768,7 @@ class CornerDetectionLightningModel(pl.LightningModule):
                         correlation_map_list.append(correlation_map_t_i_fow_show)
 
 
-                    ## 绘制mask
+                    ## 
                     event_binary_mask_for_show = event_binary_mask[t, 0].squeeze().float().cpu().numpy()
                     event_binary_mask_for_show = (cv2.merge([event_binary_mask_for_show,
                                                              event_binary_mask_for_show,
