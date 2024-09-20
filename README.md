@@ -69,7 +69,7 @@ Place the checkpoint in the ./checkpoints/ folder first.
 ```
 cd ./eval
 python eval_from_aedat4_high_freq.py --file_dir YOUR_DATA_PATH/Normal(or Blur, Dark, Over)
-python compute_homo_high_freq.py
+python compute_homo_high_freq.py (view parameter settings in the file)
 ```
 
 
