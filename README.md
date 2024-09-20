@@ -46,6 +46,12 @@ The dataset is only used for testing. It should look like this:
 </p>
 
 
+## Prepare the Environment
+### 1. Install the [Metavision SDK](https://docs.prophesee.ai/stable/installation/index.html) for Event Simulator
+
+### 2. Install Python library
+
+
 
 ## References
 [1] C. Philippe, P. Etienne, S. Amos, and L. Vincent, “Long-lived accurate keypoints in event streams,” arXiv preprint arXiv: 2209.10385, 2022.
