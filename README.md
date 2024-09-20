@@ -4,6 +4,10 @@
   <img src="figures/Network.png" width="90%">
 </p>
 
+<p align="center">
+  <img src="figures/Network.pdf" width="90%">
+</p>
+
 This is the Pytorch implementation of the RA-L 2024 paper [Towards Robust Keypoint Detection and Tracking: A Fusion Approach with Event-Aligned Image Features](https://ieeexplore.ieee.org/abstract/document/10629077). 
 
 ```bibtex
