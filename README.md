@@ -77,6 +77,8 @@ Pretrained models can be downloaded from [Baidu Netdisk](https://pan.baidu.com/s
 cd ./eval
 
 python eval_from_aedat4_high_freq.py --file_dir YOUR_DATASET_ROOT/Normal(or Blur, Dark, Over)
+
+## You will receive the results after the command 
 python compute_homo_high_freq.py (view parameter settings in the file)
 ```
 
