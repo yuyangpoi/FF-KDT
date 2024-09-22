@@ -25,13 +25,15 @@ The dataset is only used for testing. It should look like this:
    ${DATASET_ROOT}
       -- Normal
           |-- normal_1_1.aedat4
+          |-- normal_1_1.mp4
           |-- normal_1_2.aedat4
-          |-- normal_2_1.aedat4
+          |-- normal_1_2.mp4
           ...
       -- Blur
       -- Dark
       -- Over
    ```
+.aedat4 is the actual data file, and .mp4 is only used for data visualization.
 
 
 ## Results
@@ -78,7 +80,7 @@ cd ./eval
 
 python eval_from_aedat4_high_freq.py --file_dir YOUR_DATASET_ROOT/Normal  # or Blur, Dark, Over
 
-## You will receive the results after the command 
+## You will receive the results in the .eval/ folder after the command 
 python compute_homo_high_freq.py   # view parameter settings in the file
 ```
 
