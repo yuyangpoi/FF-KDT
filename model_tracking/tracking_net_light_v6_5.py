@@ -129,7 +129,7 @@ class FrameEventTrackingNet(nn.Module):
         traj_i = scaled_traj_init  # [T*B*N, 2]
 
 
-        ## 生成特征金字塔
+        ## Feature Pyramid
         features_pyramid_list = [features]
         for _ in range(self.pyramid_layers - 1):
             features = F.avg_pool2d(features, kernel_size=2, stride=2)
