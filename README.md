@@ -6,7 +6,7 @@
 
 This is the Pytorch implementation of the RA-L 2024 paper [Towards Robust Keypoint Detection and Tracking: A Fusion Approach with Event-Aligned Image Features](https://ieeexplore.ieee.org/abstract/document/10629077). 
 
-Our method is a self-supervised approach that combines image and event, consisting of two main parts: (1) **keypoint** detector; （2）**Any point** tracker. 
+Our method is a self-supervised approach that combines image and event, consisting of two main parts: \\(1) **keypoint** detector; （2）**Any point** tracker. 
 
 ```bibtex
 @article{wang2024towards,
