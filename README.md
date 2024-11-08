@@ -6,7 +6,7 @@
 
 This is the Pytorch implementation of the RA-L 2024 paper [Towards Robust Keypoint Detection and Tracking: A Fusion Approach with Event-Aligned Image Features](https://ieeexplore.ieee.org/abstract/document/10629077). 
 
-Our method is a self-supervised approach that combines image and event, consisting of two main parts: (1) **keypoint** detector; （2）**Any point** tracker. 
+Our method is a self-supervised approach that combines image and event, consisting of two main parts: (1) **Keypoint** detector; （2）**Any point** tracker. 
 
 ```bibtex
 @article{wang2024towards,
@@ -20,6 +20,7 @@ Our method is a self-supervised approach that combines image and event, consisti
 
 
 ## Extreme Corners Dataset
+**Google Drive**: https://drive.google.com/drive/folders/1RI8z2HZt-QLYvY-C5GPBxoILWmfqyPHj?usp=drive_link
 **Baidu Netdisk**: https://pan.baidu.com/s/17W4hOlsyePy-D4sd6Q3aIA  **code**: 0620
 
 The dataset is only used for testing. It should look like this:
@@ -75,7 +76,7 @@ bash install.sh
 ## Evaluation
 Download the Extreme Corners Dataset and place the checkpoint in the ./checkpoints/ folder first. 
 
-Pretrained models can be downloaded from [Baidu Netdisk](https://pan.baidu.com/s/10v0HHstRxRA_GTo5Ne4Bjg?pwd=seaq). 
+Pretrained models can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1Nmr0TU63Alljsd2DJsA4xFs_G-T3N5Cl?usp=drive_link) or [Baidu Netdisk](https://pan.baidu.com/s/10v0HHstRxRA_GTo5Ne4Bjg?pwd=seaq). 
 
 ```
 cd ./eval
