@@ -20,9 +20,9 @@ Our method is a self-supervised approach that combines image and event, consisti
 
 
 ## Extreme Corners Dataset
-**Google Drive**: https://drive.google.com/drive/folders/1RI8z2HZt-QLYvY-C5GPBxoILWmfqyPHj?usp=drive_link
+- [Google Drive](https://drive.google.com/drive/folders/1RI8z2HZt-QLYvY-C5GPBxoILWmfqyPHj?usp=drive_link)
 
-**Baidu Netdisk**: https://pan.baidu.com/s/17W4hOlsyePy-D4sd6Q3aIA  **code**: 0620
+- [Baidu Netdisk](https://pan.baidu.com/s/17W4hOlsyePy-D4sd6Q3aIA), code: 0620
 
 The dataset is only used for testing. It should look like this:
    ```
