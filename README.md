@@ -74,7 +74,7 @@ mim install mmcv==2.1.0
 bash install.sh
 ```
 
-## Evaluation
+## Evaluation on Extreme Corners dataset
 Download the Extreme Corners Dataset and place the checkpoint in the ./checkpoints/ folder first. 
 
 Pretrained models can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1Nmr0TU63Alljsd2DJsA4xFs_G-T3N5Cl?usp=drive_link) or [Baidu Netdisk](https://pan.baidu.com/s/10v0HHstRxRA_GTo5Ne4Bjg?pwd=seaq). 
@@ -87,6 +87,9 @@ python eval_from_aedat4_high_freq.py --file_dir YOUR_DATASET_ROOT/Normal  # or B
 ## You will receive the results in the .eval/ folder after the command 
 python compute_homo_high_freq.py   # view parameter settings in the script
 ```
+
+## Evaluation on Event Camera dataset
+[FF-KDT_eval_on_EC](https://github.com/yuyangpoi/FF-KDT_eval_on_EC)
 
 
 
